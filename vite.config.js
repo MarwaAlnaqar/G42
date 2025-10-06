@@ -7,7 +7,7 @@ import react from '@vitejs/plugin-react'
 //   plugins: [react()],
 // })
 export default defineConfig({
-    base: '/G42/',
+    base: '',
   
     plugins: [react()],
 });
