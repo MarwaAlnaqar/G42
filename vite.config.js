@@ -7,7 +7,7 @@ import react from '@vitejs/plugin-react'
 //   plugins: [react()],
 // })
 export default defineConfig({
-    base: '/dxb-live-upu-last/',
+    base: '',
   server: {
     proxy: {
       "/api": {
