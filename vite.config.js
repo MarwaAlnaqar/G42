@@ -8,14 +8,6 @@ import react from '@vitejs/plugin-react'
 // })
 export default defineConfig({
     base: '',
-  server: {
-    proxy: {
-      "/api": {
-        target: "https://secure.electionbuddy.com",
-        changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/api/, "")
-      }
-    }
-  },
+  
     plugins: [react()],
 });
