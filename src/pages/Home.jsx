@@ -43,9 +43,9 @@ const Home = () => {
       </div>
    </div>
       {/* Iframe display area */}
-      <div className="question-box">
+      <div className="question-box" style={{width:'100%'}}>
         {activeRoom ? (
-          <div className="iframe-wrap">
+          <div className="iframe-wrap"  style={{width:'100%'}}>
             <iframe
               src={activeRoom.src}
               width={activeRoom.width}
