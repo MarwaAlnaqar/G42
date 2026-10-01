@@ -1,25 +1,25 @@
 export const meetingRooms = [
 {
   name: "Meeting Room 1",
-  src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=0&src=bWVldGluZ3Jvb21nOUBnbWFpbC5jb20&color=%23039be5&dates=20261005/20261011",
+  src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&src=c3Vrb29uLndlYWx0aEBnbWFpbC5jb20&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=0&dates=20261006/20261007",
   height: 600,
   width: '80%'
 },
 {
   name: "Meeting Room 2",
-  src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&src=Y3JlYXRpdmVtZWV0aW5ncm9vbTUzQGdtYWlsLmNvbQ&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=0&dates=20261005/20261011",
+  src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&src=Y3JlYXRpdmVtZWV0aW5ncm9vbTUzQGdtYWlsLmNvbQ&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=0&dates=20261006/20261007",
   height: 600,
   width: '80%'
 },
 {
   name: "Meeting Room 3",
-  src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&src=bWVldGluZ2NyZWF0aXZpdHkyMkBnbWFpbC5jb20&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=0&dates=20261005/20261011",
+  src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&src=bWVldGluZ2NyZWF0aXZpdHkyMkBnbWFpbC5jb20&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=1&dates=20261006/20261007",
   height: 600,
   width: '80%'
 },
 {
   name: "Meeting Room 4",
-  src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&src=bWVldGluZ3RlY2hub2xvZ3k3QGdtYWlsLmNvbQ&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=0&dates=20261005/20261011",
+  src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&src=bWVldGluZ3RlY2hub2xvZ3k3QGdtYWlsLmNvbQ&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=1&dates=20261006/20261007",
   height: 600,
   width: '80%'
 },
