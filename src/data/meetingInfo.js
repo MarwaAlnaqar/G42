@@ -18,7 +18,7 @@ export const meetingRooms = [
   width: '80%'
 },
 {
-  name: "Meeting Room 4",
+  name: "Majlis",
   src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&src=bWVldGluZ3Jvb21nOUBnbWFpbC5jb20&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=0&dates=20261006/20261007",
   height: 600,
   width: '80%'
