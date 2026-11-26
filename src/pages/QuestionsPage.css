@@ -91,12 +91,14 @@
   margin-bottom: 2.5rem;
 }
 
-.logo-svg {
-margin-bottom: 1.5rem;
+.logo-image {
+  width: 180px;
+  height: auto;
+  margin-bottom: 1.5rem;
 }
 
 .home-container {
-background-color: #f0f4f9;
+background-color: #475569;
 max-width:none;
 display: flex;
 
