@@ -5,12 +5,12 @@ export const meetingRooms = [
   height: 600,
   width: '80%'
 },
-{
-  name: "Meeting Room 2",
-  src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&src=ZGlnaXRhbC5iaW5hYUBnbWFpbC5jb20&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=0&dates=20261006/20261007",
-  height: 600,
-  width: '80%'
-},
+// {
+//   name: "Meeting Room 2",
+//   src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&src=ZGlnaXRhbC5iaW5hYUBnbWFpbC5jb20&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=0&dates=20261006/20261007",
+//   height: 600,
+//   width: '80%'
+// },
 // {
 //   name: "Meeting Room 3",
 //   src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&src=bWFyd2FwcmltYXJ5MkBnbWFpbC5jb20&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=0&showTitle=0&dates=20261006/20261007",
