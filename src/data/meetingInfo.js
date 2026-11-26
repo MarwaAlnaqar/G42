@@ -1,6 +1,6 @@
 export const meetingRooms = [
 {
-  name: "Meeting Room 1",
+  name: "Meeting Room ",
   src: "https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FDubai&showPrint=0&showTitle=0&src=c3Vrb29uLndlYWx0aEBnbWFpbC5jb20&color=%23039be5&mode=AGENDA&showCalendars=0&showTabs=0&showNav=1&dates=20261207/20261208",
   height: 600,
   width: '80%'

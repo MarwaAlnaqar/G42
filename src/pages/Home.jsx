@@ -24,7 +24,7 @@ const Home = () => {
         <img className="logo-image" src={`${import.meta.env.BASE_URL}assets/ENS-Logo.png`} alt="ENS logo" />
 
       {/* Navbar */}
-      {/* <div className="navbar">
+      <div className="navbar">
         {meetingRooms.map((item, index) => (
           <button
             key={index}
@@ -35,7 +35,7 @@ const Home = () => {
             {item.name}
           </button>
         ))}
-      </div> */}
+      </div>
    </div>
       {/* Iframe display area */}
       <div className="question-box" style={{width:'100%'}}>
